@@ -1,0 +1,32 @@
+aid: owen-wilson-wow
+name: Owen Wilson Wow
+description: "API for actor Owen Wilson's \"wow\" exclamations in movies"
+url: https://owen-wilson-wow-api.herokuapp.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: Owen Wilson Wow
+    description: "API for actor Owen Wilson's \"wow\" exclamations in movies"
+    humanURL: https://owen-wilson-wow-api.herokuapp.com
+    baseURL: https://owen-wilson-wow-api.herokuapp.com
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://owen-wilson-wow-api.herokuapp.com
+common:
+  - type: Website
+    url: https://owen-wilson-wow-api.herokuapp.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
