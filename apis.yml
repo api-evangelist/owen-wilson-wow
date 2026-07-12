@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://owen-wilson-wow-api.herokuapp.com
 common:
+  - type: DomainSecurity
+    url: security/owen-wilson-wow-domain-security.yml
   - type: Website
     url: https://owen-wilson-wow-api.herokuapp.com
   - type: PublicAPIsListing
