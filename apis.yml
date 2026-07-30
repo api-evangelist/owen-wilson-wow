@@ -1,4 +1,16 @@
 aid: owen-wilson-wow
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/owen-wilson-wow.png
 name: Owen Wilson Wow
 description: "API for actor Owen Wilson's \"wow\" exclamations in movies"
 url: https://owen-wilson-wow-api.herokuapp.com
