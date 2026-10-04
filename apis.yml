@@ -39,7 +39,6 @@ apis:
   - name: Owen Wilson Wow
     description: "API for actor Owen Wilson's \"wow\" exclamations in movies"
     humanURL: https://owen-wilson-wow-api.herokuapp.com
-    baseURL: https://owen-wilson-wow-api.herokuapp.com
     tags:
       - Video
     properties:
